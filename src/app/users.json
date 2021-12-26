@@ -1,0 +1,98 @@
+[
+  {
+    "id": "61c8386a153e03a035830495",
+    "index": 0,
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "name": "Mavis Clark",
+    "gender": "female",
+    "email": "mavisclark@gonkle.com",
+    "phone": "+1 (834) 487-2554",
+    "address": "103 Louisiana Avenue, Campo, Ohio, 9122",
+    "registered": "2017-01-03T08:28:25 -06:-30"
+  },
+  {
+    "id": "61c8386a0353711c43f7ac31",
+    "index": 1,
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "name": "Kayla Gentry",
+    "gender": "female",
+    "email": "kaylagentry@gonkle.com",
+    "phone": "+1 (981) 461-3236",
+    "address": "786 Madison Place, Whipholt, Florida, 365",
+    "registered": "2014-04-16T08:55:22 -06:-30"
+  },
+  {
+    "id": "61c8386ab567e8b8897e9572",
+    "index": 2,
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "name": "Perkins Cummings",
+    "gender": "male",
+    "email": "perkinscummings@gonkle.com",
+    "phone": "+1 (877) 407-3555",
+    "address": "106 Frost Street, Gorham, Oregon, 4250",
+    "registered": "2015-10-30T09:36:05 -06:-30"
+  },
+  {
+    "id": "61c8386af570fc3fbdbd90c1",
+    "index": 3,
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "name": "Karla Mercado",
+    "gender": "female",
+    "email": "karlamercado@gonkle.com",
+    "phone": "+1 (849) 493-2897",
+    "address": "425 Landis Court, Enetai, New Hampshire, 6174",
+    "registered": "2016-02-07T11:52:26 -06:-30"
+  },
+  {
+    "id": "61c8386ad85c6625af66984f",
+    "index": 4,
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "name": "Bonner Cook",
+    "gender": "male",
+    "email": "bonnercook@gonkle.com",
+    "phone": "+1 (988) 485-2754",
+    "address": "504 Colin Place, Crayne, North Carolina, 4886",
+    "registered": "2018-10-30T12:37:33 -06:-30"
+  },
+  {
+    "id": "61c8386a91b71d202fd68c86",
+    "index": 5,
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "name": "Vaughan Armstrong",
+    "gender": "male",
+    "email": "vaughanarmstrong@gonkle.com",
+    "phone": "+1 (879) 452-3902",
+    "address": "891 Seigel Street, Durham, Kansas, 1969",
+    "registered": "2015-05-16T07:23:56 -06:-30"
+  },
+  {
+    "id": "61c8386a2688fc2ed1884727",
+    "index": 6,
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "name": "Caroline Gilmore",
+    "gender": "female",
+    "email": "carolinegilmore@gonkle.com",
+    "phone": "+1 (917) 495-3307",
+    "address": "114 Lloyd Street, Eastvale, Northern Mariana Islands, 5539",
+    "registered": "2019-12-06T02:51:44 -06:-30"
+  },
+  {
+    "id": "61c8386a53f70bf268dc09da",
+    "index": 7,
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "name": "Watson Conner",
+    "gender": "male",
+    "email": "watsonconner@gonkle.com",
+    "phone": "+1 (894) 558-2696",
+    "address": "407 Vanderbilt Avenue, Kiskimere, Pennsylvania, 4712",
+    "registered": "2021-08-05T01:56:24 -06:-30"
+  }
+]

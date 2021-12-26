@@ -1,0 +1,55 @@
+<div class="user-listing">
+	<h2>Registed User Listing for महाराष्ट्र रिक्षा संघटना</h2>
+	<div class="mdc-data-table">
+		<div class="mdc-data-table__table-container">
+
+			<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+				<!-- Image Column -->
+				<ng-container matColumnDef="image">
+					<th mat-header-cell *matHeaderCellDef> Image </th>
+					<td mat-cell *matCellDef="let element"><img src="{{element.picture}}"> </td>
+				</ng-container>
+
+				<!-- Name Column -->
+				<ng-container matColumnDef="name">
+					<th mat-header-cell *matHeaderCellDef> Name </th>
+					<td mat-cell *matCellDef="let element"> {{element.name}} </td>
+				</ng-container>
+
+				<!-- Gender Column -->
+				<ng-container matColumnDef="gender">
+					<th mat-header-cell *matHeaderCellDef> Gender </th>
+					<td mat-cell *matCellDef="let element"> {{element.gender}} </td>
+				</ng-container>
+
+				<!-- Gender Column -->
+				<ng-container matColumnDef="age">
+					<th mat-header-cell *matHeaderCellDef> Age </th>
+					<td mat-cell *matCellDef="let element"> {{element.age}} </td>
+				</ng-container>
+
+				<!-- Phone Column -->
+				<ng-container matColumnDef="phone">
+					<th mat-header-cell *matHeaderCellDef> Phone </th>
+					<td mat-cell *matCellDef="let element"> {{element.phone}} </td>
+				</ng-container>
+
+				<!-- Email Column -->
+				<ng-container matColumnDef="email">
+					<th mat-header-cell *matHeaderCellDef> Email </th>
+					<td mat-cell *matCellDef="let element"> {{element.email}} </td>
+				</ng-container>
+
+				<!-- Address Column -->
+				<ng-container matColumnDef="address">
+					<th mat-header-cell *matHeaderCellDef> Address </th>
+					<td mat-cell *matCellDef="let element"> {{element.address}} </td>
+				</ng-container>
+
+				<tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+				<tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+			</table>
+		</div>
+	</div>
+</div>
